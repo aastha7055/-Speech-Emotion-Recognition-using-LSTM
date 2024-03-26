@@ -3,7 +3,7 @@ Project Title: Speech Emotion Recognition using LSTM
 # -Description:
 This project implements a speech emotion recognition system using Long Short-Term Memory (LSTM) neural networks. It aims to classify the emotional content of speech data into different categories such as happiness, sadness, anger, fear, etc. The system utilizes the TESS Toronto emotional speech dataset and extracts Mel-Frequency Cepstral Coefficients (MFCC) features from the audio files. These features are then fed into an LSTM-based neural network model for training and classification.
 # -Key Features:
-1.Data loading and preprocessing from the TESS Toronto emotional speech dataset.
+1.Data loading and preprocessing from the TESS Toronto emotional speech dataset.\n
 2.Feature extraction using MFCC.
 3.Parallel processing for efficient feature extraction.
 4.Construction of a sequential LSTM model using Keras.
