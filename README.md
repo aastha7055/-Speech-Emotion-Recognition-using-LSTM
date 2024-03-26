@@ -20,7 +20,7 @@ Librosa ,
 Scikit-learn ,
 Keras ,
 Joblib
-# -Usage:
+# Usage:
 Clone the repository.
 Ensure all dependencies are installed (pip install -r requirements.txt).
 Run the main script.
